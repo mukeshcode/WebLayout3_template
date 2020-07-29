@@ -19,6 +19,8 @@ body{font-family:arial, verdana; background-color:rgb(235,235,235);}
 @media screen and (max-width:400px)
 {
 .topnav a{float:none; width:100%;}
+  .topnav button{width:100%;}
+  .header h1{font-size:6vw;}
 }
 .dropdown{float:left; overflow:hidden;}
 .dropdown .dropbtn{text-decoration:none; color:white; background-color:inherit; font-family:inherit; padding:15px 30px; outline:none; border:none; text-align:center; font-size:16px; margin:0;}
